@@ -1,0 +1,12 @@
+checkpoints/
+runs-kinetics/
+detectron2_repo/
+pytorchvideo/
+pytorch/
+__pycache__/
+slowfast.egg-info/
+venv/
+patches/
+stdout.log
+*~
+\#*
